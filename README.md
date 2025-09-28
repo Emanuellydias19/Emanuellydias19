@@ -17,8 +17,9 @@
   ## Estatísticas 📈
 <div>
 <a href="https://github.com/Emanuellydias19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuellydias19&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Emanuelly Dias GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellydias19&layout=compact&langs_count=7&theme=dark" alt="Top languages used by Emanuelly Dias"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuellydias&show_icons=FF69B4&theme=dark&include_all_commits=true&count_private=true" alt="Emanuelly Dias GitHub Stats" /> 
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellydias19&layout=compact&langs_count=7&theme=tokyonight&title_color=FFFFFF&icon_color=FF69B4&text_color=FFFFFF" alt="Top languages used by Emanuelly Dias"/>
 </a>
 </div>
 
