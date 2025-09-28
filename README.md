@@ -62,17 +62,16 @@
 &nbsp;
 
 ## <span style="color:#FF0000;"> Projeto console </span>
-- https://github.com/Inteli-College/2025-2A-T15-IN03-G01 - AI-Powered Predictive Model 
-
+- https://github.com/Inteli-College/2025-2A-T15-IN03-G01 - Predictive System to Identify Students at Risk of Failing.
 &nbsp;
 &nbsp;
 
-## Orientador 👨
-<div>
-  <p> No Inteli nós temos orientadores para nos auxiliar no começo dessa nova jornada.</p> 
-  <p> 🙋‍♂️Meu orientador é o Vinicius Testa.</p>
-  <p> 👨‍💻Ele está cursando Engenharia de Software.</p>
-  <p> 🤝O Vinicius é sempre solicito e vem me ajudando muito.</p> 
+## Advisor 👨  
+<div>  
+  <p> At Inteli, we have advisors to help us at the beginning of this new journey.</p>  
+  <p> 🙋‍♂️My advisor is Vinicius Testa.</p>  
+  <p> 👨‍💻He is studying Software Engineering.</p>  
+  <p> 🤝Vinicius is always helpful and has been supporting me a lot.</p>  
 </div>
 
   <a href="https://github.com/annariciopo" target="_blank"><img  alt="Anna-GitHub" height="40" width="40" src="https://www.svgrepo.com/show/512317/github-142.svg" target="_blank"></a>
