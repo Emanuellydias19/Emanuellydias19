@@ -1,4 +1,13 @@
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Emanuelly+%F0%9F%91%8B;Devoted+for+blockchain!" alt="Typing SVG" />
+</h2>
+
+<p align="center">
+  🛠️ Self-taught, curious, always learning <br>
+  🎯 Currently focused on Solana <br>
+  <class="latin">"As is a tale, so is life: not how long it is, but how good it is, is what matters" - Seneca.
+</p>
 
 ### 🔥 <span style="color:#FF0000;">Core Identity</span> 🔥
 <span style="color:#FF4500;">A visionary coder merging creativity with logic, crafting innovative solutions. Student at Inteli, mastering agile methodologies (Scrum, Kanban) and diving into blockchain frontiers.</span>
@@ -52,7 +61,7 @@
 &nbsp;
 
 ## <span style="color:#FF0000;"> Projeto console </span>
-- [Predictoras](https://github.com/seunome/predictoras) - AI-Powered Predictive Model - Data Unleashed
+- https://github.com/Inteli-College/2025-2A-T15-IN03-G01 - AI-Powered Predictive Model 
 
 &nbsp;
 &nbsp;
