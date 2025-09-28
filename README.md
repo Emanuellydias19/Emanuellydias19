@@ -54,18 +54,27 @@
 ## <span style="color:#FF0000;"> Projeto console </span>
 - [Predictoras](https://github.com/seunome/predictoras) - AI-Powered Predictive Model - Data Unleashed
 
-## Orientadora 👩
+&nbsp;
+&nbsp;
+
+## Orientador 👨
 <div>
   <p> No Inteli nós temos orientadores para nos auxiliar no começo dessa nova jornada.</p> 
-  <p> 🙋‍♀️Minha orientadora é a Anna Riciopo.</p>
-  <p> 👩‍💻Ela está cursando Engenharia de Software.</p>
-  <p> 🤝A Anna é sempre solicita e vem me ajudando muito.</p> 
-  <a href="https://github.com/annariciopo" target="_blank"><img  alt="Anna-GitHub" height="40" width="40" src="https://www.svgrepo.com/show/512317/github-142.svg" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anna-riciopo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <p> 🙋‍♂️Meu orientador é o Vinicius Testa.</p>
+  <p> 👨‍💻Ele está cursando Engenharia de Software.</p>
+  <p> 🤝O Vinicius é sempre solicito e vem me ajudando muito.</p> 
 </div>
-    
+
+  <a href="https://github.com/annariciopo" target="_blank"><img  alt="Anna-GitHub" height="40" width="40" src="https://www.svgrepo.com/show/512317/github-142.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vinicius-testa-passos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+&nbsp;
+&nbsp;
+
   ## Contatos 📌
 <div>
-  <a href="[https://br.linkedin.com/in/l%C3%ADvia-negrini-421163213](https://www.linkedin.com/in/emanuelly-dias-2a0480305/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/emanuelly-dias-2a0480305/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
   <a href="https://instagram.com/livia.negrini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
