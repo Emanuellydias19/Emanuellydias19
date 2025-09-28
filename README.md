@@ -7,40 +7,41 @@
    +-------------------------------------+
 </pre>
 
-<div style="color:#FF0000;">=== CORE IDENTITY ===</div>
+### 🔥 <span style="color:#FF0000;">Core Identity</span> 🔥
 <span style="color:#FF4500;">A visionary coder merging creativity with logic, crafting innovative solutions. Student at Inteli, mastering agile methodologies (Scrum, Kanban) and diving into blockchain frontiers.</span>
+
+## <span style="color:#FF4500;">SKILL MATRIX</span>
+#### Main Stack:
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<img src="[https://i.pinimg.com/originals/fd/e1/0f/fde10f0a706b219627dfcd34a6a1c939.gif]" width="400px" align="right" alt="Descrição da imagem">
+
+
+### <span style="color:#FF0000;">EVOLVING SKILLS</span>
+- 🦀 Rust (Learning) 🔥  
+- ⛓️ Solidity (Beginner) 🔥  
+
+#### Ferramentas
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## <span style="color:#FF0000;">PROJECT CONSOLE</span>
+- [Predictoras](https://github.com/seunome/predictoras) - AI-Powered Predictive Model - Data Unleashed  
 
 ## <span style="color:#FF4500;">ABOUT ME [PERSONAL LOG]</span>
 <span style="color:#FF0000;">>> BIO INITIALIZED <<</span>
 - <span style="color:#FF4500;">Driven by tech and imagination, I transform ideas into impactful solutions at Inteli.</span>
-- <span style="color:#FF0000;">Passionate about blockchain, data, and poems, inspired by (Rosa Montero, Clarice Lispector).</span>
+- <span style="color:#FF0000;">Passionate about blockchain, data, and poetic coding, inspired by fantasy (Sara J. Mass, Clarice Lispector).</span>
 - <span style="color:#FF4500;">Goal: Lead global tech teams in 4 years, building sustainable futures.</span>
-
-## <span style="color:#FF4500;">SKILL MATRIX</span>
-### <span style="color:#FF0000;">PRIMARY CODES</span>
-- ![Python](https://img.shields.io/badge/Python-Expert-blue) <span style="color:#FF4500;">// Precision Data Architect</span>
-- ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow) <span style="color:#FF0000;">// Dynamic Web Engineer</span>
-- ![SQL](https://img.shields.io/badge/SQL-Basic-green) <span style="color:#FF4500;">// Database Navigator</span>
-- ![Phaser](https://img.shields.io/badge/Phaser-Intermediate-orange) <span style="color:#FF0000;">// Interactive Game Dev</span>
-- ![HTML](https://img.shields.io/badge/HTML-Basic-red) <span style="color:#FF4500;">// Structural Coder</span>
-- ![CSS](https://img.shields.io/badge/CSS-Basic-purple) <span style="color:#FF0000;">// Visual Styling Expert</span>
-
-### <span style="color:#FF0000;">EVOLVING SKILLS</span>
-- ![Rust](https://img.shields.io/badge/Rust-Learning-orange) <span style="color:#FF4500;">// Next-Gen Performance</span>
-- ![Solidity](https://img.shields.io/badge/Solidity-Beginner-purple) <span style="color:#FF0000;">// Blockchain Innovator</span>
-
-### <span style="color:#FF4500;">TECH TOOLKIT</span>
-- Git <span style="color:#FF0000;">// Version Control Master</span>
-- VSCode <span style="color:#FF4500;">// Code Command Center</span>
-- Figma <span style="color:#FF0000;">// Design Blueprint Tool</span>
-
-## <span style="color:#FF0000;">PROJECT CONSOLE</span>
-- [Predictoras](https://github.com/seunome/predictoras) - <span style="color:#FF4500;">AI-Powered Predictive Model - Data Unleashed</span>
 
 <pre style="color:#FF4500;">
    +-------------------------------------+
    |  [ SYSTEM LOG ]                     |
-   |  TIME: 16:31 -03 | DATE: 28-09-2025 |
+   |  TIME: 04:57 PM -03 | DATE: 28-09-2025 |
    |  MISSION: BUILD THE FUTURE          |
    +-------------------------------------+
 </pre>
