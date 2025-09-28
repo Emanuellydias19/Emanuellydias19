@@ -1,47 +1,43 @@
-<pre style="color:#FF4500;">
-   +-------------------------------------+
-   |  [ SYSTEM ONLINE ]                  |
-   |  USER: [Seu Nome] - TECH CONSOLE    |
-   +-------------------------------------+
-   |  [ STATUS: ACTIVE - BLOCKCHAIN MODE ] |
-   +-------------------------------------+
-</pre>
+
 
 ### 🔥 <span style="color:#FF0000;">Core Identity</span> 🔥
 <span style="color:#FF4500;">A visionary coder merging creativity with logic, crafting innovative solutions. Student at Inteli, mastering agile methodologies (Scrum, Kanban) and diving into blockchain frontiers.</span>
 
-## <span style="color:#FF4500;">SKILL MATRIX</span>
+&nbsp;
+&nbsp;
+
+## Skill Matrix 
+
 #### Main Stack:
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<img src="[https://i.pinimg.com/originals/fd/e1/0f/fde10f0a706b219627dfcd34a6a1c939.gif]" width="400px" align="right" alt="Descrição da imagem">
+![Phaser](https://img.shields.io/badge/Phaser-000000?style=for-the-badge&logo=phaser&logoColor=white)&nbsp;
+<img src="https://github.com/user-attachments/assets/507c03f5-be23-42be-a998-09eaf862eb38" width="400px" align="right" alt="GIF animado do projeto">
 
+#### <span style="color:#FF0000;">Evolving Skills:</span>
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) 
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) 
 
-### <span style="color:#FF0000;">EVOLVING SKILLS</span>
-- 🦀 Rust (Learning) 🔥  
-- ⛓️ Solidity (Beginner) 🔥  
-
-#### Ferramentas
+#### Most Used Tools:
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## <span style="color:#FF0000;">PROJECT CONSOLE</span>
-- [Predictoras](https://github.com/seunome/predictoras) - AI-Powered Predictive Model - Data Unleashed  
+&nbsp;
+&nbsp;
 
-## <span style="color:#FF4500;">ABOUT ME [PERSONAL LOG]</span>
+## <span style="color:#FF4500;">Personal Log</span>
 <span style="color:#FF0000;">>> BIO INITIALIZED <<</span>
 - <span style="color:#FF4500;">Driven by tech and imagination, I transform ideas into impactful solutions at Inteli.</span>
 - <span style="color:#FF0000;">Passionate about blockchain, data, and poetic coding, inspired by fantasy (Sara J. Mass, Clarice Lispector).</span>
 - <span style="color:#FF4500;">Goal: Lead global tech teams in 4 years, building sustainable futures.</span>
+- <span style="color:#FF4500;">Mission: Build the future.</span>
 
-<pre style="color:#FF4500;">
-   +-------------------------------------+
-   |  [ SYSTEM LOG ]                     |
-   |  TIME: 04:57 PM -03 | DATE: 28-09-2025 |
-   |  MISSION: BUILD THE FUTURE          |
-   +-------------------------------------+
-</pre>
+&nbsp;
+&nbsp;
+
+## <span style="color:#FF0000;"> Projeto console </span>
+- [Predictoras](https://github.com/seunome/predictoras) - AI-Powered Predictive Model - Data Unleashed  
