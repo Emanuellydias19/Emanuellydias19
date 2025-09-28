@@ -51,10 +51,13 @@
 
 ## <span style="color:#FF4500;">Personal Log</span>
 <span style="color:#FF0000;">>> BIO INITIALIZED <<</span>
+
+#### "La vida es un regalo que se nos da, y cada instante merece ser vivido con intensidad". - Rosa Montero.
+
 - <span style="color:#FF4500;">Driven by tech and imagination, I transform ideas into impactful solutions at Inteli.</span>
-- <span style="color:#FF0000;">Passionate about blockchain, data, and poetic coding, inspired by fantasy (Sara J. Mass, Clarice Lispector).</span>
-- <span style="color:#FF4500;">Goal: Lead global tech teams in 4 years, building sustainable futures.</span>
-- <span style="color:#FF4500;">Mission: Build the future.</span>
+- <span style="color:#FF0000;">Passionate about blockchain, data, and poem, inspired by Contemporary fiction (Rosa Montero, Clarice Lispector).</span>
+- <span style="color:#FF4500;">**Goal:** Lead global tech teams in 4 years, building sustainable futures.</span>
+- <span style="color:#FF4500;">**Mission:** Build the future.</span>
 
 &nbsp;
 &nbsp;
