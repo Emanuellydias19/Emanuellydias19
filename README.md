@@ -3,15 +3,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Emanuelly+%F0%9F%91%8B;I'm+Devoted+for+blockchain🔥&color=FFA500" alt="Typing SVG" />
 </h2>
 
+###  <span style="color:#FF0000;">Core Identity</span> 🔥
+#### "If you win, you live. If you lose, you die. If you don’t fight, you can’t win." - Eren Yeager.
 
-<p align="center">
-  🛠️ Tenacious, creative, and fearless professional, shaped by innovation and determination.  <br>
-  🎯 Currently focused on Solana <br>
-  <class="latin"> “If you win, you live. If you lose, you die. If you don’t fight, you can’t win.” - Eren Yeager.
-</p>
-
-### 🔥 <span style="color:#FF0000;">Core Identity</span> 🔥
-<span style="color:#FF4500;">A visionary coder merging creativity with logic, crafting innovative solutions. Student at Inteli, mastering agile methodologies (Scrum, Kanban) and diving into blockchain frontiers.</span>
+🛠️ Tenacious, creative, and fearless professional, shaped by innovation and determination.  <br>
+🎯 Currently focused on Solana <br>
+🎓 Student at Inteli, mastering agile methodologies (Scrum, Kanban) and diving into blockchain frontiers.</span>
 
 &nbsp;
 &nbsp;
@@ -19,9 +16,9 @@
 
   ## Estatísticas 📈
 <div>
-<a href="https://github.com/livianegrini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=livianegrini&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Emanuelly Dias GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livianegrini&layout=compact&langs_count=7&theme=dark" alt="Top languages used by Emanuelly Dias"/>
+<a href="https://github.com/Emanuellydias19">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuellydias19&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Emanuelly Dias GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellydias19&layout=compact&langs_count=7&theme=dark" alt="Top languages used by Emanuelly Dias"/>
 </a>
 </div>
 
@@ -63,6 +60,7 @@
 
 ## <span style="color:#FF0000;"> Projeto console </span>
 - https://github.com/Inteli-College/2025-2A-T15-IN03-G01 - Predictive System to Identify Students at Risk of Failing.
+  
 &nbsp;
 &nbsp;
 
