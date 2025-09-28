@@ -5,9 +5,9 @@
 
 
 <p align="center">
-  🛠️ Self-taught, curious, always learning <br>
+  🛠️ Tenacious, creative, and fearless professional, shaped by innovation and determination.  <br>
   🎯 Currently focused on Solana <br>
-  <class="latin">"As is a tale, so is life: not how long it is, but how good it is, is what matters" - Seneca.
+  <class="latin"> “If you win, you live. If you lose, you die. If you don’t fight, you can’t win.” - Eren Yeager.
 </p>
 
 ### 🔥 <span style="color:#FF0000;">Core Identity</span> 🔥
