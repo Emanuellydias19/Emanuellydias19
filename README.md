@@ -10,6 +10,12 @@
 <div style="color:#FF0000;">=== CORE IDENTITY ===</div>
 <span style="color:#FF4500;">A visionary coder merging creativity with logic, crafting innovative solutions. Student at Inteli, mastering agile methodologies (Scrum, Kanban) and diving into blockchain frontiers.</span>
 
+## <span style="color:#FF4500;">ABOUT ME [PERSONAL LOG]</span>
+<span style="color:#FF0000;">>> BIO INITIALIZED <<</span>
+- <span style="color:#FF4500;">Driven by tech and imagination, I transform ideas into impactful solutions at Inteli.</span>
+- <span style="color:#FF0000;">Passionate about blockchain, data, and poems, inspired by (Rosa Montero, Clarice Lispector).</span>
+- <span style="color:#FF4500;">Goal: Lead global tech teams in 4 years, building sustainable futures.</span>
+
 ## <span style="color:#FF4500;">SKILL MATRIX</span>
 ### <span style="color:#FF0000;">PRIMARY CODES</span>
 - ![Python](https://img.shields.io/badge/Python-Expert-blue) <span style="color:#FF4500;">// Precision Data Architect</span>
